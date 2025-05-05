@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hello World! I'm Muhammad Rizky Al - Aziz 👋
+![z](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXp4enNyMDFxdmx1MTQxNHJtNnZqZzMzZmhjMnJ4ejg5ZjZ0cHRnbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VEzYdo930nTiTuVeMU/giphy.gif)
 <!--
 **rizkyalaziz/rizkyalaziz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on **PT. Zona Karya Nusantara** 😊
+- 🌱 I’m currently learning [Laravel](https://laravel.com) Framework
+
