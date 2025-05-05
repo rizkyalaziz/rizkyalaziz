@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on **PT. Zona Karya Nusantara** 😊
-- 🌱 I’m currently learning [Laravel](https://laravel.com) Framework
+- 🌱 I’m currently learning [Laravel](https://laravel.com) Framework 😊
 
